@@ -1,0 +1,54 @@
+<persons>
+    <person>
+        <id>5</id>
+        <name>Jack</name>
+        <coordinates>
+            <x>0</x>
+            <y>-20.0</y>
+        </coordinates>
+        <creationDate>Fri Feb 21 13:29:32 MSK 2025</creationDate>
+        <height>166</height>
+        <birthday>2005-03-12T00:00+03:00[Europe/Moscow]</birthday>
+        <eyeColor>RED</eyeColor>
+        <hairColor>BLACK</hairColor>
+        <location>
+            <x>0.0</x>
+            <y>0</y>
+            <z>0.0</z>
+            <name>Moscow</name>
+        </location>
+    </person>
+    <person>
+        <id>3</id>
+        <name>Oleg</name>
+        <coordinates>
+            <x>10</x>
+            <y>-10.0</y>
+        </coordinates>
+        <creationDate>Fri Feb 21 13:27:30 MSK 2025</creationDate>
+        <height></height>
+        <birthday>2006-09-28T00:00+04:00[Europe/Moscow]</birthday>
+        <eyeColor></eyeColor>
+        <hairColor>GREEN</hairColor>
+        <location></location>
+    </person>
+    <person>
+        <id>4</id>
+        <name>Ivan</name>
+        <coordinates>
+            <x>20</x>
+            <y>10.0</y>
+        </coordinates>
+        <creationDate>Fri Feb 21 13:28:25 MSK 2025</creationDate>
+        <height>179</height>
+        <birthday>2007-02-12T00:00+03:00[Europe/Moscow]</birthday>
+        <eyeColor>BLACK</eyeColor>
+        <hairColor>YELLOW</hairColor>
+        <location>
+            <x>0.0</x>
+            <y>0</y>
+            <z>-10.0</z>
+            <name>Moscow</name>
+        </location>
+    </person>
+</persons>
