@@ -1,0 +1,5 @@
+git\olegmusic\server\core\Invoker.class
+git\olegmusic\server\utils\CollectionManager.class
+git\olegmusic\server\Main.class
+git\olegmusic\server\commands\Command.class
+git\olegmusic\server\commands\InfoCommand.class
